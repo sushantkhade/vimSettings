@@ -101,3 +101,12 @@ set switchbuf=useopen,usetab
 " Scroll offset
 " While scrolling, there's a buffer of 3 lines to provide context
 set scrolloff=3
+
+" For information on indentation settings:
+" http://vim.wikia.com/wiki/Indenting_source_code
+"
+"set autoindent
+" Uncomment above to copy indent from the above line 
+
+" hide buffers
+set hidden
